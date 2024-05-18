@@ -1,0 +1,19 @@
+
+
+#Getact{
+    border: 2px solid blue;
+    text-decoration: none;
+    font-size: 30px;
+    padding: 12px;
+    
+}
+.column{
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.index-page{
+    justify-content: center;
+}
+.contact-us{
+    justify-content: center;
+}
